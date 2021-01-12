@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/bin/bash
 ping google.com

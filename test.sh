@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-ping google.com
+#!/bin/bash
+mkdir -p ~/./activix
